@@ -1,4 +1,4 @@
-### Hi there 👋
+### We first make our habits, and then our habits make us. - John Dryden
 
 <!--
 **junha-ahn/junha-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
